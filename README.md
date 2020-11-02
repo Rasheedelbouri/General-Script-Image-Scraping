@@ -10,4 +10,4 @@ Due to Arabic language not being compatible with writing in terminal you'll have
 
 You will not necessarily get the number of images that you specify. Better to search for a little more than required.
 
-Fastest performance is to run the main_scrape.py from terminal.
+Once parameters set, scraping can be run by running ```python main_scrape.py``` from terminal.
